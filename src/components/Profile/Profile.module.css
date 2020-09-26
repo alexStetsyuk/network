@@ -1,0 +1,6 @@
+.content {
+  background-color: rgb(230, 106, 255);
+  flex: 4;
+  border-radius: 15px;
+  padding: 5px;
+}

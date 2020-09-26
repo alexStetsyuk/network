@@ -1,0 +1,9 @@
+.header img {
+  width: 50px;
+}
+
+.header {
+  background-color: skyblue;
+  width: 100%;
+  border-radius: 15px;
+}

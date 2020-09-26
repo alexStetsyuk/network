@@ -1,0 +1,7 @@
+.navbar {
+  background-color: rgb(132, 255, 108);
+  flex: 1;
+  border-radius: 15px;
+  padding: 10px;
+  margin-right: 5px;
+}
