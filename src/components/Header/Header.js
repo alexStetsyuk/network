@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Header.module.css";
 
-function Header() {
+const Header = () => {
   return (
     <header className={styles.header}>
       <img
@@ -10,6 +10,6 @@ function Header() {
       />
     </header>
   );
-}
+};
 
 export default Header;

@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Banner.module.css";
 
-function Banner() {
+const Banner = () => {
   return (
     <div>
       <img
@@ -11,6 +11,6 @@ function Banner() {
       />
     </div>
   );
-}
+};
 
 export default Banner;

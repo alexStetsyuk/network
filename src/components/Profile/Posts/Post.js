@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Post.module.css";
 
-function Post(props) {
+const Post = (props) => {
   return (
     <div>
       {/* <img
@@ -13,6 +13,6 @@ function Post(props) {
       <span className={styles.comment}>{props.text}</span>
     </div>
   );
-}
+};
 
 export default Post;

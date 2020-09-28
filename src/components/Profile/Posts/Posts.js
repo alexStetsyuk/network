@@ -1,7 +1,7 @@
 import React from "react";
 import Post from "./Post";
 
-function Posts() {
+const Posts = () => {
   return (
     <div>
       Posts
@@ -26,6 +26,6 @@ function Posts() {
       </div>
     </div>
   );
-}
+};
 
 export default Posts;
