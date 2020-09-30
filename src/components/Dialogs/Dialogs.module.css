@@ -1,1 +1,12 @@
+.dialogs {
+  display: flex;
+  padding: 15px;
+}
 
+.dialog {
+  margin-left: 100px;
+}
+
+.active {
+  color: gold;
+}
